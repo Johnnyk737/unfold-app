@@ -1,0 +1,9 @@
+.border {
+  border: solid 1px black;
+}
+
+.sidebar {
+  width: 20rem;
+  height: 100vh;
+  display: block;
+}
